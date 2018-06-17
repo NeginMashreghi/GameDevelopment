@@ -31,19 +31,30 @@ Screens’ Layout
 
 
 When the game is started player will see Main Scene that only have one type of UI
-	•	Start button: When they click on the “Start” button the game will start on level one. 
 
+- Start button: When they click on the “Start” button the game will start on level one. 
+
+<img src="https://user-images.githubusercontent.com/27638465/41511316-6562b8d6-7242-11e8-93a8-b66e114dd174.jpg" width="300" height="400" />
 
 When the player click on the start button they will see First Level Scene. In the first level scene you can see
-	•	Jack (Avatar) 
-	•	3 healthy food 
-	•	3 unhealthy food
-	•	“Level 1” label 
-	•	“Health point: 400” label 
+
+Jack (Avatar) 
+- 3 healthy food 
+- 3 unhealthy food
+- “Level 1” label 
+- “Health point: 400” label 
+
+<img src="https://user-images.githubusercontent.com/27638465/41511314-62a0239a-7242-11e8-8882-0bf5772aa293.jpg" width="300" height="400" />
 
 At the end of Level 1 If player reaches the 0 health point
-	•	“You lost” label appears
-	•	“Play again” button appears: if the player click on the “Play again” button the player will start the game from the beginning of the level 1.
+- “You lost” label appears
+- “Play again” button appears: if the player click on the “Play again” button the player will start the game from the beginning of the level 1.
+
+<img src="https://user-images.githubusercontent.com/27638465/41511313-6069167c-7242-11e8-8dae-f7f7c105ab96.jpg" width="300" height="400" />
+
+
+
+
 
 If player gets 1000 point they will move to the Second Level Scene. In the second level scene you can see
 	•	Jack (Avatar) 
@@ -96,9 +107,11 @@ If player gets 3000 point they will Last Scene. In this scene player can see
 ![photo_2017-11-03_16-40-55](https://user-images.githubusercontent.com/27638465/41511308-59bb052e-7242-11e8-8721-74abc932a761.jpg)
 ![photo_2017-11-03_16-40-44](https://user-images.githubusercontent.com/27638465/41511311-5c2d853e-7242-11e8-8bc0-eaa92998d7b7.jpg)
 ![photo_2017-11-03_16-30-14](https://user-images.githubusercontent.com/27638465/41511312-5e60e558-7242-11e8-87ee-10780c370d9d.jpg)
-![photo_2017-11-03_16-26-49](https://user-images.githubusercontent.com/27638465/41511313-6069167c-7242-11e8-8dae-f7f7c105ab96.jpg)
-![photo_2017-11-03_16-23-43](https://user-images.githubusercontent.com/27638465/41511314-62a0239a-7242-11e8-8882-0bf5772aa293.jpg)
-![photo_2017-11-03_15-58-11](https://user-images.githubusercontent.com/27638465/41511316-6562b8d6-7242-11e8-93a8-b66e114dd174.jpg)
+
+
+![photo_2017-11-03_16-26-49]()
+![photo_2017-11-03_16-23-43]()
+
 
 
 
