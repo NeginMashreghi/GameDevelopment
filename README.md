@@ -85,7 +85,21 @@ If player gets 3000 point they will Last Scene. In this scene player can see
 
 
 
+![photo_2017-11-03_17-48-04](https://user-images.githubusercontent.com/27638465/41511294-41abdc9c-7242-11e8-8631-f567752d0b73.jpg)
 
+![photo_2017-11-03_17-48-01](https://user-images.githubusercontent.com/27638465/41511295-4635b49a-7242-11e8-9652-5750c76b19e2.jpg)
+
+
+
+![photo_2017-11-03_16-54-10](https://user-images.githubusercontent.com/27638465/41511298-4bb0d134-7242-11e8-8e0c-297ec3c85fd6.jpg)
+![photo_2017-11-03_16-46-37](https://user-images.githubusercontent.com/27638465/41511303-53964528-7242-11e8-90ba-04d9e516a967.jpg)
+![photo_2017-11-03_16-46-32](https://user-images.githubusercontent.com/27638465/41511305-57281fc2-7242-11e8-87c4-4aa366638118.jpg)
+![photo_2017-11-03_16-40-55](https://user-images.githubusercontent.com/27638465/41511308-59bb052e-7242-11e8-8721-74abc932a761.jpg)
+![photo_2017-11-03_16-40-44](https://user-images.githubusercontent.com/27638465/41511311-5c2d853e-7242-11e8-8bc0-eaa92998d7b7.jpg)
+![photo_2017-11-03_16-30-14](https://user-images.githubusercontent.com/27638465/41511312-5e60e558-7242-11e8-87ee-10780c370d9d.jpg)
+![photo_2017-11-03_16-26-49](https://user-images.githubusercontent.com/27638465/41511313-6069167c-7242-11e8-8dae-f7f7c105ab96.jpg)
+![photo_2017-11-03_16-23-43](https://user-images.githubusercontent.com/27638465/41511314-62a0239a-7242-11e8-8882-0bf5772aa293.jpg)
+![photo_2017-11-03_15-58-11](https://user-images.githubusercontent.com/27638465/41511316-6562b8d6-7242-11e8-93a8-b66e114dd174.jpg)
 
 
 
@@ -105,7 +119,8 @@ In this folder you will see two types of Texture
 
    - The player can move the Jack (avatar) with right and left keyboard controller arrows 
    - The avatar is always on the bottom of the screen it cannot go up and down 
-
+   
+![photo_2017-11-03_17-47-57](https://user-images.githubusercontent.com/27638465/41511297-490e5af0-7242-11e8-9cdd-ecaed39c7eb6.jpg)
 2. Foods
 
     - Foods move from top to bottom of the screen in different speed 
