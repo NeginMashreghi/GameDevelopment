@@ -53,22 +53,22 @@ At the end of Level 1 If player reaches the 0 health point
 <img src="https://user-images.githubusercontent.com/27638465/41511313-6069167c-7242-11e8-8dae-f7f7c105ab96.jpg" width="300" height="400" />
 
 
-
-
-
 If player gets 1000 point they will move to the Second Level Scene. In the second level scene you can see
-	•	Jack (Avatar) 
-	•	2 healthy food 
-	•	4 unhealthy food
-	•	“Level 2” label 
-	•	“Health point: 300” label 
 
+- Jack (Avatar) 
+- 2 healthy food 
+- 4 unhealthy food
+- “Level 2” label 
+- “Health point: 300” label 
 
+<img src="https://user-images.githubusercontent.com/27638465/41511312-5e60e558-7242-11e8-87ee-10780c370d9d.jpg" width="300" height="400" />
 
 At the end of Level 2 If player reaches the 0 health point
-	•	“You lost” label 
-	•	“Play again” button appears: If the player click on the “Play again” button the player will start the game from the beginning of the level 1.
 
+- “You lost” label 
+- “Play again” button appears: If the player click on the “Play again” button the player will start the game from the beginning of the level 1.
+
+<img src="https://user-images.githubusercontent.com/27638465/41511308-59bb052e-7242-11e8-8721-74abc932a761.jpg" width="300" height="400" />
 
 
  If player gets 2000 point they will move to the Third Level Scene. In the third level scene you can see
@@ -78,15 +78,14 @@ At the end of Level 2 If player reaches the 0 health point
 	•	“Level 3” label 
 	•	“Health point: 200” label 
 
+<img src="https://user-images.githubusercontent.com/27638465/41511305-57281fc2-7242-11e8-87c4-4aa366638118.jpg" width="300" height="400" />
 
 
-
-
- At the end of Level 3 If player reaches the 0 health point
+At the end of Level 3 If player reaches the 0 health point
 	•	“You Lost” label 
 	•	“Play Again” button appears: If the player click on the “Play again” button the player will start the game from the beginning of the level 1.
 
-
+<img src="https://user-images.githubusercontent.com/27638465/41511303-53964528-7242-11e8-90ba-04d9e516a967.jpg" width="300" height="400" />
 
 
 
@@ -94,6 +93,7 @@ If player gets 3000 point they will Last Scene. In this scene player can see
 	•	“You Win” label 
 	•	“Play Again” button appears: If the player click on the “Play again” button the player go to the Main Scene screen to start the game from the beginning.
 
+<img src="https:https://user-images.githubusercontent.com/27638465/41511298-4bb0d134-7242-11e8-8e0c-297ec3c85fd6.jpg" width="300" height="400" />
 
 
 
@@ -101,11 +101,15 @@ If player gets 3000 point they will Last Scene. In this scene player can see
 
 
 
-![photo_2017-11-03_16-54-10](https://user-images.githubusercontent.com/27638465/41511298-4bb0d134-7242-11e8-8e0c-297ec3c85fd6.jpg)
-![photo_2017-11-03_16-46-37](https://user-images.githubusercontent.com/27638465/41511303-53964528-7242-11e8-90ba-04d9e516a967.jpg)
-![photo_2017-11-03_16-46-32](https://user-images.githubusercontent.com/27638465/41511305-57281fc2-7242-11e8-87c4-4aa366638118.jpg)
-![photo_2017-11-03_16-40-55](https://user-images.githubusercontent.com/27638465/41511308-59bb052e-7242-11e8-8721-74abc932a761.jpg)
-![photo_2017-11-03_16-40-44](https://user-images.githubusercontent.com/27638465/41511311-5c2d853e-7242-11e8-8bc0-eaa92998d7b7.jpg)
+![photo_2017-11-03_16-54-10]()
+![photo_2017-11-03_16-46-37]()
+![photo_2017-11-03_16-46-32]()
+
+
+![photo_2017-11-03_16-40-55]()
+
+
+![photo_2017-11-03_16-40-44]()
 ![photo_2017-11-03_16-30-14](https://user-images.githubusercontent.com/27638465/41511312-5e60e558-7242-11e8-87ee-10780c370d9d.jpg)
 
 
