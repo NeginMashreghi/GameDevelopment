@@ -27,7 +27,7 @@ In this game, the player “Jack” will move horizontally and will have to catc
 Screens’ Layout
 
 
-## How It works
+## How each scene look like 
 
 
 When the game is started player will see Main Scene that only have one type of UI
@@ -71,27 +71,27 @@ At the end of Level 2 If player reaches the 0 health point
 <img src="https://user-images.githubusercontent.com/27638465/41511308-59bb052e-7242-11e8-8721-74abc932a761.jpg" width="300" height="400" />
 
 
- If player gets 2000 point they will move to the Third Level Scene. In the third level scene you can see
-	•	Jack (Avatar) 
-	•	1 healthy food 
-	•	5 unhealthy food
-	•	“Level 3” label 
-	•	“Health point: 200” label 
+If player gets 2000 point they will move to the Third Level Scene. In the third level scene you can see
+- Jack (Avatar) 
+- 1 healthy food 
+- 5 unhealthy food
+- “Level 3” label 
+- “Health point: 200” label 
 
 <img src="https://user-images.githubusercontent.com/27638465/41511305-57281fc2-7242-11e8-87c4-4aa366638118.jpg" width="300" height="400" />
 
 
 At the end of Level 3 If player reaches the 0 health point
-	•	“You Lost” label 
-	•	“Play Again” button appears: If the player click on the “Play again” button the player will start the game from the beginning of the level 1.
+- “You Lost” label 
+- “Play Again” button appears: If the player click on the “Play again” button the player will start the game from the beginning of the level 1.
 
 <img src="https://user-images.githubusercontent.com/27638465/41511303-53964528-7242-11e8-90ba-04d9e516a967.jpg" width="300" height="400" />
 
 
 
 If player gets 3000 point they will Last Scene. In this scene player can see
-	•	“You Win” label 
-	•	“Play Again” button appears: If the player click on the “Play again” button the player go to the Main Scene screen to start the game from the beginning.
+- “You Win” label 
+- “Play Again” button appears: If the player click on the “Play again” button the player go to the Main Scene screen to start the game from the beginning.
 
 <img src="https://user-images.githubusercontent.com/27638465/41511540-ac790816-7246-11e8-8e1b-d83174e4594f.jpg" width="300" height="400" />
 
