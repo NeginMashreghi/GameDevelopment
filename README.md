@@ -93,28 +93,12 @@ If player gets 3000 point they will Last Scene. In this scene player can see
 	•	“You Win” label 
 	•	“Play Again” button appears: If the player click on the “Play again” button the player go to the Main Scene screen to start the game from the beginning.
 
-<img src="https:https://user-images.githubusercontent.com/27638465/41511298-4bb0d134-7242-11e8-8e0c-297ec3c85fd6.jpg" width="300" height="400" />
+<img src="https://user-images.githubusercontent.com/27638465/41511540-ac790816-7246-11e8-8e1b-d83174e4594f.jpg" width="300" height="400" />
 
 
 
 
 
-
-
-![photo_2017-11-03_16-54-10]()
-![photo_2017-11-03_16-46-37]()
-![photo_2017-11-03_16-46-32]()
-
-
-![photo_2017-11-03_16-40-55]()
-
-
-![photo_2017-11-03_16-40-44]()
-![photo_2017-11-03_16-30-14](https://user-images.githubusercontent.com/27638465/41511312-5e60e558-7242-11e8-87ee-10780c370d9d.jpg)
-
-
-![photo_2017-11-03_16-26-49]()
-![photo_2017-11-03_16-23-43]()
 
 
 
