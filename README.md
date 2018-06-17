@@ -26,6 +26,68 @@ In this game, the player “Jack” will move horizontally and will have to catc
 **Third Level**: Player starts with 200 healthy points and their new limit is 3000 healthy points. If the player reaches the healthy point limit, they will move to the next level. If the player reaches the 0 points, game is over.
 Screens’ Layout
 
+## Game Assets 
+
+In our asset we will five folders 
+- Texture 
+- Audio
+- Prefabs
+- Script
+  
+### **Texture**
+
+In this folder you will see two types of Texture 
+
+1. Jack (Avatar)
+
+   - The player can move the Jack (avatar) with right and left keyboard controller arrows 
+   - The avatar is always on the bottom of the screen it cannot go up and down 
+
+<img src="https://user-images.githubusercontent.com/27638465/41511297-490e5af0-7242-11e8-9cdd-ecaed39c7eb6.jpg" width="200" height="200" />
+
+
+
+2. Foods
+
+    - Foods move from top to bottom of the screen in different speed 
+    - Food will appear on the screen randomly
+    - They will be two type of food 
+	
+      1. Healthy 
+          - Pear: 100 point
+          - Peach: 200 point
+          - Eggplant: 300 point 
+      2. Unhealthy 
+          - Sausage: -10 point
+          - Stake: -40 point
+          - Chocolate: -30 point
+	  
+<img src="https://user-images.githubusercontent.com/27638465/41511295-4635b49a-7242-11e8-9652-5750c76b19e2.jpg" width="400" height="200" />	  
+
+<img src="https://user-images.githubusercontent.com/27638465/41511294-41abdc9c-7242-11e8-8631-f567752d0b73.jpg" width="400" height="200" />
+	  
+
+
+### **Audio**
+
+There will be 3 sounds in this folder 
+
+  - Background sound 
+  - Interacting with healthy food sound
+  - Interacting with unhealthy food sound
+
+
+### **Script**
+
+We will have estimated 5 script classes 
+  - HealthyFoodController
+  - UnHealthyFoodController
+  - AvatarController
+  - GameController
+  - AvatarCollision 
+
+
+
 
 ## How each scene look like 
 
@@ -101,66 +163,5 @@ If player gets 3000 point they will Last Scene. In this scene player can see
 
 
 
-
-
-## Game Assets 
-
-In our asset we will five folders 
-- Texture 
-- Audio
-- Prefabs
-- Script
-  
-### **Texture**
-
-In this folder you will see two types of Texture 
-
-1. Jack (Avatar)
-
-   - The player can move the Jack (avatar) with right and left keyboard controller arrows 
-   - The avatar is always on the bottom of the screen it cannot go up and down 
-
-<img src="https://user-images.githubusercontent.com/27638465/41511297-490e5af0-7242-11e8-9cdd-ecaed39c7eb6.jpg" width="200" height="200" />
-
-
-
-2. Foods
-
-    - Foods move from top to bottom of the screen in different speed 
-    - Food will appear on the screen randomly
-    - They will be two type of food 
-	
-      1. Healthy 
-          - Pear: 100 point
-          - Peach: 200 point
-          - Eggplant: 300 point 
-      2. Unhealthy 
-          - Sausage: -10 point
-          - Stake: -40 point
-          - Chocolate: -30 point
-	  
-<img src="https://user-images.githubusercontent.com/27638465/41511295-4635b49a-7242-11e8-9652-5750c76b19e2.jpg" width="400" height="200" />	  
-
-<img src="https://user-images.githubusercontent.com/27638465/41511294-41abdc9c-7242-11e8-8631-f567752d0b73.jpg" width="400" height="200" />
-	  
-
-
-### **Audio**
-
-There will be 3 sounds in this folder 
-
-  - Background sound 
-  - Interacting with healthy food sound
-  - Interacting with unhealthy food sound
-
-
-### **Script**
-
-We will have estimated 5 script classes 
-  - HealthyFoodController
-  - UnHealthyFoodController
-  - AvatarController
-  - GameController
-  - AvatarCollision 
 
 
