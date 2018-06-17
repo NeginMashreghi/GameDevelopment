@@ -85,9 +85,8 @@ If player gets 3000 point they will Last Scene. In this scene player can see
 
 
 
-![photo_2017-11-03_17-48-04](https://user-images.githubusercontent.com/27638465/41511294-41abdc9c-7242-11e8-8631-f567752d0b73.jpg)
 
-![photo_2017-11-03_17-48-01](https://user-images.githubusercontent.com/27638465/41511295-4635b49a-7242-11e8-9652-5750c76b19e2.jpg)
+
 
 
 
@@ -119,8 +118,11 @@ In this folder you will see two types of Texture
 
    - The player can move the Jack (avatar) with right and left keyboard controller arrows 
    - The avatar is always on the bottom of the screen it cannot go up and down 
-   
-![photo_2017-11-03_17-47-57](https://user-images.githubusercontent.com/27638465/41511297-490e5af0-7242-11e8-9cdd-ecaed39c7eb6.jpg)
+
+<img src="https://user-images.githubusercontent.com/27638465/41511297-490e5af0-7242-11e8-9cdd-ecaed39c7eb6.jpg" width="200" height="400" />
+
+
+
 2. Foods
 
     - Foods move from top to bottom of the screen in different speed 
@@ -130,11 +132,16 @@ In this folder you will see two types of Texture
       1. Healthy 
           - Pear: 100 point
           - Peach: 200 point
-          - Eggplant: 300 point
+          - Eggplant: 300 point 
       2. Unhealthy 
           - Sausage: -10 point
           - Stake: -40 point
           - Chocolate: -30 point
+	  
+<img src="https://user-images.githubusercontent.com/27638465/41511295-4635b49a-7242-11e8-9652-5750c76b19e2.jpg" width="200" height="400" />	  
+
+<img src="https://user-images.githubusercontent.com/27638465/41511294-41abdc9c-7242-11e8-8631-f567752d0b73.jpg" width="200" height="400" />
+	  
 
 
 ### **Audio**
