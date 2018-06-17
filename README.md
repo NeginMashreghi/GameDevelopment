@@ -27,7 +27,7 @@ In this game, the player “Jack” will move horizontally and will have to catc
 Screens’ Layout
 
 
-
+## How It works
 
 
 When the game is started player will see Main Scene that only have one type of UI
